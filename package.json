@@ -1,0 +1,12 @@
+{
+  "name": "RSA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node generate_keys.js"
+  },
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  }
+}
